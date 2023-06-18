@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/java/sample/dao/PlantDAO.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>140</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/X/OneDrive/Documents/NetBeansProjects/FinalProject/web/ManageCategories.jsp</file>
+            <file>file:/C:/Users/X/OneDrive/Documents/NetBeansProjects/FinalProject/web/OrderDetail.jsp</file>
+            <file>file:/C:/Users/X/OneDrive/Documents/NetBeansProjects/FinalProject/src/java/sample/servlet/cancelOrder.java</file>
+            <file>file:/C:/Users/X/OneDrive/Documents/NetBeansProjects/FinalProject/web/ManageAccounts.jsp</file>
+            <file>file:/C:/Users/X/OneDrive/Documents/NetBeansProjects/FinalProject/web/AdminIndex.jsp</file>
+            <file>file:/C:/Users/X/OneDrive/Documents/NetBeansProjects/FinalProject/web/changeprofile.jsp</file>
+            <file>file:/C:/Users/X/OneDrive/Documents/NetBeansProjects/FinalProject/src/java/sample/servlet/logoutServlet.java</file>
+            <file>file:/C:/Users/X/OneDrive/Documents/NetBeansProjects/FinalProject/web/managePlant.jsp</file>
+            <file>file:/C:/Users/X/OneDrive/Documents/NetBeansProjects/FinalProject/src/java/sample/servlet/getPlantServlet.java</file>
+            <file>file:/C:/Users/X/OneDrive/Documents/NetBeansProjects/FinalProject/src/java/sample/dao/OrderDAO.java</file>
+            <file>file:/C:/Users/X/OneDrive/Documents/NetBeansProjects/FinalProject/src/java/sample/dto/Account.java</file>
+            <file>file:/C:/Users/X/OneDrive/Documents/NetBeansProjects/FinalProject/src/java/sample/servlet/loginServlet.java</file>
+            <file>file:/C:/Users/X/OneDrive/Documents/NetBeansProjects/FinalProject/src/java/sample/servlet/manageOrdersServlet.java</file>
+            <file>file:/C:/Users/X/OneDrive/Documents/NetBeansProjects/FinalProject/src/java/sample/dao/AccountDAO.java</file>
+            <file>file:/C:/Users/X/OneDrive/Documents/NetBeansProjects/FinalProject/src/java/sample/servlet/addToCartServlet.java</file>
+            <file>file:/C:/Users/X/OneDrive/Documents/NetBeansProjects/FinalProject/web/index.jsp</file>
+            <file>file:/C:/Users/X/OneDrive/Documents/NetBeansProjects/FinalProject/src/java/sample/servlet/searchAccountServlet.java</file>
+            <file>file:/C:/Users/X/OneDrive/Documents/NetBeansProjects/FinalProject/web/login.jsp</file>
+            <file>file:/C:/Users/X/OneDrive/Documents/NetBeansProjects/FinalProject/src/java/sample/servlet/saveShoppingCartServlet.java</file>
+            <file>file:/C:/Users/X/OneDrive/Documents/NetBeansProjects/FinalProject/src/java/sample/dto/Categories.java</file>
+            <file>file:/C:/Users/X/OneDrive/Documents/NetBeansProjects/FinalProject/src/java/sample/servlet/mainController.java</file>
+        </group>
+    </open-files>
+</project-private>

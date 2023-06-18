@@ -1,0 +1,48 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : Mar 4, 2023, 8:37:01 AM
+    Author     : NGUYEN TAN
+*/
+
+*{ 
+    box-sizing:border-box;
+  }
+  html{ font-family: arial;
+        font-size: 12px; 
+  }
+ 
+  section { height: auto;}
+
+  a    {    color: #006666;
+            font-size: 1.5em;
+              text-decoration: none;
+       }
+            
+ header li:last-child { width:30%; float:right;}
+ #logo { width: 100px; height: 100px; }
+ 
+.form table{width:50%;}
+
+.product {width: 15%; height: auto; float:left; margin: 5%;}
+
+.order { border: 1px solid #cccccc; width:100%; margin: 1%;}
+.order tr:first-child{ width:100%; background-color:#e1eee7 ; color: #006666;}
+.order td{  color:black; width: 15%;}
+
+.plantimg { width:100px; height: 100px;}
+
+.shopping { width:70%;}
+
+.gradient-custom {
+/* fallback for old browsers */
+background: #6a11cb;
+
+/* Chrome 10-25, Safari 5.1-6 */
+background: -webkit-linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1));
+
+/* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1))
+}
